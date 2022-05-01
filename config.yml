@@ -18,7 +18,7 @@ startup:
 
 discord:
 # Manage your discord settings
-  botToken: "OTcwNDcwNDAwMTE3MDU5NTg0.Ym8a_Q.fnBhTyvwIOBCvMWyR841DsYCoOU" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
+  botToken: "" # Don't forget to enable intents (https://youtu.be/pzxVzEHk4ww?t=35)
   prefix: "!"
 
 format:
